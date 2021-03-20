@@ -1,0 +1,13 @@
+[package]
+name = "phoebe2parker"
+description = "A Peer-2-Peer CLI messenger."
+version = "0.1.0"
+authors = ["Max Stanley <github@maxstanley.uk>"]
+repository = "https://github.com/maxstanley/phoebe2parker"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = "0.4"
+log4rs = "1.0.0"
